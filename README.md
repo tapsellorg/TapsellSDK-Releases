@@ -1,1 +1,1 @@
-# TapsellSDK-Releases
+# TapsellSDK-iOS-Releases
